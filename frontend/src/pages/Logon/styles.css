@@ -34,12 +34,3 @@
     font-weight: 500;
     transition: opacity 0.2s;
 }
-
-/* ícones são estilizados através do svg no react */
-.logon-container section.form form a svg {
-    margin-right: 8px;
-}
-
-.logon-container section.form form a:hover {
-    opacity: 0.8;
-}
